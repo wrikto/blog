@@ -22,7 +22,10 @@ To contribute:
 2. Clone your repository.
 3. cd into the repository's directory.
 4. Set this repository as the upstream (keeping your fork as the origin).
-5. Create a branch that follows naming convention defined in "Branches" section below.
+5. pipenv shell
+6. Create a branch that follows naming convention defined in "Branches" section below.
+7. Make your changes and test/verify all looks good (mkdocs serve)
+	- Ctrl-C to kill server
 7. Push your commit to your fork.
 8. Initiate a PR from your forked repository.
 
