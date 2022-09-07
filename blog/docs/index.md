@@ -17,5 +17,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         ...       # Other markdown pages, images and other files.
 
 
-## Confirmation
-Is it still working?
+## Will this first display in STAGING?
