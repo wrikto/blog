@@ -7,7 +7,7 @@ This project uses [MkDocs](https://www.mkdocs.org/) to build a static site in a 
 Uses GitHub Actions to orchestrate the following flow:
 1. PRs will be held for review, where changes to file(s) will be visually checked.
 2. Once approved, a staging instance will become available for previewing via a web browser.
-3. Once approved, updates will be pushed to the production environment, where changes will be made live and viewable at [https://blog.kevinharper.com](https://blog.kevinharper.com)
+3. Once approved, updates will be pushed to the production environment, where changes will be made live and viewable at x
 
 ## Contributing
 ### Dev Environment
